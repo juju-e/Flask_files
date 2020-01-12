@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block content %}
+         {% for row in rows %}
+         <article class="content-section">
+<div class="article-title">
+      <a href="/preview/{{ row['name'].strip() }}">{{ row['title']+'\n' }}</a></div>
+      <div class="article-content">{{ row['body'] }}</div>
+              </article>
+         {% endfor %}
+{% endblock content %}

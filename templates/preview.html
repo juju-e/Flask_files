@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1 class="text-blue bg-cyan">Preview</h1>
+<div class="container p-3 my-3 bg-dark text-white">
+	{{ data }}
+</div>        
+<button class="btn btn-outline-info"><a href="download/{{ name
+}}">Download</a></button>
+
+{% endblock content %}
+
+

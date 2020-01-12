@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="form-group">
+<form action = "/uploader" method = "POST" 
+         enctype = "multipart/form-data"> 
+         <div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="basic-addon1">Title</span>
+  </div>
+  <input type="text" class="form-control" placeholder="" aria-label="Title" aria-describedby="basic-addon1" name="title" required="true" >
+</div>
+  <input class="btn btn-info btn-lg|sm" type="file" value="Input" name="file" required="true">
+         <input  class="btn btn-info btn-lg|sm" type = "submit"/>
+    </form>
+</div>
+{% endblock content %}

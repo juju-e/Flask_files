@@ -1,0 +1,147 @@
+total 463616
+drwxr-xr-x 52 titi titi      4096 Dec 22 20:47 .
+drwxr-xr-x  4 root root      4096 Dec 19 10:59 ..
+drwx------  3 titi titi      4096 Dec 11 19:40 .ansible
+-rwxrwxr-x  1 titi titi     13520 Dec 22 19:17 a.out
+drwxr-xr-x  2 titi titi      4096 Dec  6 11:40 .asciinema
+drwxr-xr-x  9 titi titi      4096 Dec 18 13:50 .atom
+drwxr-xr-x  3 titi titi      4096 Dec  6 10:50 b0c165efa8156315cd4675809ee91670
+-rw-------  1 titi titi      2032 Dec 20 11:36 .bash_history
+-rw-r--r--  1 titi titi       220 Nov 28 16:55 .bash_logout
+-rw-r--r--  1 titi titi      3771 Nov 28 16:55 .bashrc
+-rw-r--r--  1 titi titi     16384 Dec 20 12:18 .bashrc.swo
+-rw-r--r--  1 titi titi     16384 Dec 20 12:24 .bashrc.swp
+-rw-r--r--  1 titi titi       309 Dec 13 20:10 brute_f.zip
+-rw-r--r--  1 titi titi     45059 Dec 13 19:22 brute_zip.py.save
+drwx------ 43 titi titi      4096 Dec 22 20:32 .cache
+drwxr-xr-x  6 titi titi      4096 Dec 20 13:29 Calibre Library
+drwxrwxr-x  3 titi titi      4096 Dec 21 02:48 .cargo
+drwxr-xr-x  3 titi titi      4096 Nov 30 12:15 .cinnamon
+drwx------ 38 titi titi      4096 Dec 22 18:16 .config
+-rw-rw-r--  1 titi titi     16776 Dec  6 12:37 crack
+drwxr-xr-x  5 titi titi      4096 Dec 12 19:51 crypto-landing-page
+drwx------  3 root root      4096 Dec  5 17:05 .dbus
+drwxr-xr-x 11 titi titi      4096 Dec 20 14:47 Desktop
+drwxr-xr-x  6 titi titi      4096 Dec 20 14:53 Dj_hw
+drwxr-xr-x 16 titi titi      4096 Dec 22 08:49 Documents
+drwxr-xr-x 16 titi titi      4096 Dec 22 19:59 Downloads
+-rw-rw-r--  1 titi titi        44 Dec 17 19:18 echo
+-rwxr-xr-x  1 titi titi     10944 Dec 19 16:38 es
+-rw-r--r--  1 titi titi       369 Dec 19 16:38 es.c
+-rwxr-xr-x  1 titi titi     11832 Dec 19 17:00 ex10
+-rw-rw-r--  1 titi titi      1328 Dec 19 16:59 ex10.c
+-rw-rw-r--  1 titi titi      1024 Dec 19 16:07 .ex16.c.swp
+-rw-rw-r--  1 titi titi      3286 Dec 20 22:33 ex17.c
+-rw-r--r--  1 titi titi       183 Dec 19 11:24 ex1.c
+-rw-r--r--  1 titi titi        33 Dec 19 11:35 ex2.1.mak
+-rwxrwxr-x  1 titi titi     10928 Dec 19 12:52 ex8
+-rw-rw-r--  1 titi titi       348 Dec 19 12:52 ex8.c
+-rw-r--r--  1 titi titi      8980 Nov 28 16:55 examples.desktop
+drwxrwxr-x  2 titi titi      4096 Dec 22 09:37 fedmsg
+-rw-rw-r--  1 titi titi        36 Dec 22 19:18 file1.txt
+-rw-rw-r--  1 titi titi        45 Dec 22 18:16 filename.txt
+-rw-rw-r--  1 titi titi        36 Dec 22 19:05 file_to_plot.txt
+-rw-r--r--  1 titi titi       216 Dec 18 13:44 flas.py
+-rw-r--r--  1 titi titi       578 Dec 18 13:42 flas.pyc
+drwxrwxrwx  3 titi titi      4096 Dec 21 02:03 [FTUForum.com] The Rust Programming Language [Ebook] [FTU]
+drwxr-xr-x  4 titi titi      4096 Dec 13 21:01 git
+-rw-r--r--  1 titi titi        59 Dec  1 10:09 .gitconfig
+-rw-r--r--  1 titi titi   2214719 Dec  3 18:53 Git & GitHub Tutorial for Beginners #1 - Why Use Git-3RjQznt-8kE.mp4.part
+drwx------  5 titi titi      4096 Dec 10 19:00 .gnupg
+-rw-rw-r--  1 titi titi 120050424 Sep  3 18:44 go1.13.linux-amd64.tar.gz
+drwxrwxr-x  3 titi titi      4096 Dec 12 14:14 .goldendict
+-rw-r--r--  1 titi titi       384 Dec 13 14:10 groom.txt
+-rw-r--r--  1 titi titi         0 Dec 13 20:11 g.txt
+-rw-r--r--  1 titi titi        21 Dec 12 18:43 h.png
+-rw-------  1 titi titi     19548 Dec 22 17:32 .ICEauthority
+drwxr-xr-x  2 titi titi      4096 Nov 30 12:15 .icons
+drwxr-xr-x  2 titi titi      4096 Dec  9 15:56 .idlerc
+-rw-r--r--  1 titi titi         0 Dec  2 21:06 il etait une fois dans une plaine
+-rw-rw-r--  1 titi titi      1041 Dec  1 19:21 <invalid path>
+-rw-rw-r--  1 titi titi       222 Dec 22 19:17 ki.py
+-rw-rw-r--  1 titi titi       202 Dec 22 20:28 ki.py.save
+-rw-rw-r--  1 titi titi      1024 Dec 22 20:45 .ki.py.swp
+-rw-------  1 titi titi        28 Dec 20 12:07 .lesshst
+drwx------  6 titi titi      4096 Dec  1 18:46 .local
+-rw-r--r--  1 titi titi       179 Dec 13 14:27 lol.txt
+-rwxrwxr-x  1 titi titi     13520 Dec 22 19:18 ma
+-rwxrwxr-x  1 titi titi     13520 Dec 22 19:13 makecp
+-rw-rw-r--  1 titi titi       318 Dec 22 19:16 makecp.cpp
+-rw-rw-r--  1 titi titi      1024 Dec 22 20:45 .makecp.cpp.swp
+-rw-r--r--  1 titi titi       128 Dec 22 19:18 makefile
+-rw-rw-r--  1 titi titi      1024 Dec 22 20:46 .makefile.swp
+-rwxrwxr-x  1 titi titi     13520 Dec 22 19:05 ml
+drwx------  5 titi titi      4096 Nov 29 21:01 .mozilla
+drwxrwxr-x  2 titi titi      4096 Dec 10 13:09 .mume
+drwxr-xr-x  2 titi titi      4096 Dec 22 20:04 Music
+-rw-------  1 titi titi       537 Dec  1 17:38 nano.save
+drwxr-xr-x 12 titi titi      4096 Nov 30 18:02 .oh-my-zsh
+-rwxr-xr-x  1 titi titi      8296 Dec 19 12:05 p
+-rw-r--r--  1 titi titi      1259 Dec 15 17:01 page.html
+-rw-r--r--  1 titi titi       306 Dec  1 10:40 .pam_environment
+drwxr-xr-x  6 titi titi      4096 Dec 15 23:52 pasteRand
+drwxr-xr-x  7 titi titi      4096 Dec 22 20:33 Pictures
+drwx------  3 titi titi      4096 Nov 30 12:56 .pki
+drwxr-xr-x  4 titi titi      4096 Dec  6 14:19 pos
+drwxr-xr-x  6 titi titi      4096 Dec 12 08:16 powerlevel10k
+drwxr-xr-x 12 root root      4096 Dec 11 21:00 powerlevel9k
+-rw-r--r--  1 titi titi       845 Dec 21 02:45 .profile
+drwxr-xr-x  3 titi titi      4096 Dec 21 16:04 projects
+drwxr-xr-x  3 titi titi      4096 Dec 14 22:33 Projects
+drwxr-xr-x  2 titi titi      4096 Nov 29 22:58 Public
+drwxr-xr-x  2 titi titi      4096 Dec 13 12:37 __pycache__
+drwxr-xr-x  2 titi titi      4096 Dec 15 22:21 pytask
+-rw-r--r--  1 titi titi  25623672 Jun  1  2019 Python Django tutorial 1 installing easy_install, virtualenv & django-oT1A1KKf0SI.mp4
+-rw-r--r--  1 titi titi  38756238 Sep 18  2015 Python Django Tutorial 2 new 1.7+ migrations-fbJgeJjA7Cg.mp4
+-rw-r--r--  1 titi titi  42319340 Nov  3 18:30 Python Django tutorial 3 views, simple urls and basic templates-7qiq8gnSrxg.mp4
+-rw-r--r--  1 titi titi   7252892 Oct 30 13:50 Python Django tutorial 4a How to Set the home or default page-cF8WBg_S-qA.mp4
+-rw-r--r--  1 titi titi  25003817 Nov  9 14:46 Python Django tutorial 4b advanced views and urls-TVuLEvsOVsw.mp4
+-rw-r--r--  1 titi titi  15515212 Dec  1 19:19 Python Django tutorial 5 - The built in Admin interface-kvFDV1oM-ZA.mp4
+-rw-r--r--  1 titi titi  39800793 Nov 12 14:25 Python Django tutorial 6 - Django Template language-iA918NEFZxs.mp4
+-rw-r--r--  1 titi titi    937703 Dec  3 20:02 Python Django tutorial 7 - static files-3Dgfp6hLznA.mp4.part
+-rw-r--r--  1 titi titi  23367356 Oct 22  2018 Python Flask Tutorial - Full-Featured Web App Part 1 - Getting Started-MwZwr5Tvyxo.mp4
+-rw-r--r--  1 titi titi  47227634 Oct 25  2018 Python Flask Tutorial - Full-Featured Web App Part 2 - Templates-QnDWIZuWYW0.mp4
+-rw-r--r--  1 titi titi  80994420 Oct 20  2018 Python Flask Tutorial - Full-Featured Web App Part 3 - Forms and User Input-UIJKdCIEXUQ.mp4
+-rw-------  1 titi titi       443 Dec 13 15:55 .python_history
+-rwxr-xr-x  1 titi titi      8296 Dec 19 11:22 r
+-rw-r--r--  1 titi titi       183 Dec 19 11:22 r.c
+drwxrwxr-x  2 titi titi      4096 Dec 20 11:36 ro
+-rw-r--r--  1 titi titi       389 Dec 13 14:15 ron.txt
+-rw-------  1 titi titi       108 Dec  2 21:29 r.txt
+drwxrwxr-x  6 titi titi      4096 Dec 21 02:47 .rustup
+-rw-r--r--  1 titi titi       764 Dec  2 21:41 search_and_replace.py
+drwxrwxr-x  2 titi titi      4096 Dec 16 13:58 .shodan
+-rw-rw-r--  1 titi titi      1931 Dec 17 22:24 sho.py
+drwxr-xr-x  7 titi titi      4096 Dec 14 14:23 snap
+drwxr-xr-x  4 titi titi      4096 Dec 15 16:26 spell_checker
+drwx------  2 titi titi      4096 Dec  6 10:04 .ssh
+-rw-r--r--  1 titi titi       715 Dec 12 15:30 sternography
+-rw-r--r--  1 titi titi         0 Nov 29 21:05 .sudo_as_admin_successful
+-rw-------  1 titi titi     12288 Dec  5 18:29 .swp
+-rw-r--r--  1 titi titi      1502 Dec 22 09:51 tc.py
+-rw-rw-r--  1 titi titi      1024 Dec 22 10:10 .tc.py.swp
+drwxr-xr-x  2 titi titi      4096 Nov 29 22:58 Templates
+-rw-rw-r--  1 titi titi     26163 Dec 12 18:28 test.png
+-rw-rw-r--  1 titi titi       313 Dec 20 10:51 test.yml
+drwxr-xr-x  3 titi titi      4096 Nov 30 12:16 .themes
+drwx------  5 titi titi      4096 Nov 30 12:48 .thunderbird
+-rw-rw-r--  1 titi titi       279 Dec 22 09:54 tp.py
+-rw-r--r--  1 titi titi    218415 Dec 12 18:45 tst_img.png
+-rw-r--r--  1 titi titi        87 Dec 13 14:26 t.txt
+-rw-rw-r--  1 titi titi    106496 Dec 16 19:28 typescript
+-rw-rw-r--  1 titi titi       613 Dec 19 09:28 u.txt
+drwxr-xr-x  2 titi titi      4096 Dec 22 18:07 Videos
+-rw-------  1 titi titi     21560 Dec 20 12:25 .viminfo
+drwxrwxr-x 10 titi titi      4096 Dec 20 11:09 vivekrole
+drwxr-xr-x  3 titi titi      4096 Nov 30 12:55 .vscode
+-rw-r--r--  1 titi titi       262 Dec 13 15:34 .wget-hsts
+-rw-r--r--  1 titi titi         0 Dec 13 20:17 words.txt
+-rw-r--r--  1 titi titi   4397421 Dec  1 01:21 Y'all mind if I praise the lord (More videos On IG romeo_cannady)-ETbOX50t0kw.mp4
+-rw-r--r--  1 titi titi     42980 Dec 21 13:09 .zcompdump
+-rw-r--r--  1 titi titi     42679 Nov 30 18:03 .zcompdump-titi-Aspire-5732Z-5.4.2
+-rw-r--r--  1 titi titi       478 Dec 13 21:01 zip crack
+-rw-r--r--  1 titi titi       526 Dec 13 14:14 zo.txt
+-rw-rw-r--  1 titi titi        38 Dec 21 02:45 .zprofile
+-rw-------  1 titi titi     74766 Dec 22 20:47 .zsh_history
+-rw-r--r--  1 titi titi      3649 Dec 12 08:35 .zshrc
+-rw-r--r--  1 titi titi      4139 Dec 12 08:35 .zshrc.save
