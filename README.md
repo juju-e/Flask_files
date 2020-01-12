@@ -4,8 +4,8 @@ A flask web app that will give the option to upload a text file along with the t
 # How it works:
 
 This web app works with sqlite3 as the default database engine,<br>
-When the user enters the file and it's title, the app will insert in th database the file's name, the first 100 characters, the title and the time at which the file was uploaded.
-I then used templates to display html and all the source code is in main.py.
+When the user enters the file and it's title, the app will insert in th database the file's name, the first 100 characters, the title and the time at which the file was uploaded.<br>
+All the source code is in main.py.
 
 # How to run it:
 
